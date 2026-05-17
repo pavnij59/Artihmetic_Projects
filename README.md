@@ -1,2 +1,7 @@
 # Artihmetic_Projects
-C++ algorithms and problem solving project
+This respository contains:
+- Bubble sort
+- Binary Search
+- Knapsack Problem
+language:C++
+
